@@ -1,0 +1,146 @@
+img {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin: 10px;
+}
+h1{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    background-image: url('o.jpg');
+    padding: 100px;
+    text-shadow: 5px 5px #0e31ba;
+}
+#intro{
+    display: flex;
+    justify-content: center;
+}
+iframe {
+  margin: 10px;
+}
+ol {
+  margin: 10px;
+  background-color: #ffffff; 
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;   
+  padding-top: 20px;
+  padding-bottom: 27px;
+}
+h2{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+    margin: 10px;
+}
+h3{
+    font-family: Tahoma,Verdana,Segoe,sans-serif;
+  margin: 10px;
+}
+p{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+li{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.don {
+  margin: 10px;
+  background-color: #e4b9ec; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 300px;   
+  padding: 2px;
+}
+.cid {
+  position: absolute;
+  left: 420px;
+  top: 3600px;
+  margin: 10px;
+  background-color: #b9ecc8; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 300px;   
+  padding-right: 25px;
+}
+.cha {
+  position: absolute;
+  left: 420px;
+  top: 4300px;
+  margin: 10px;
+  background-color: #d6f79b; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 325px;   
+  padding-right: 25px;
+}
+.ted {
+  position: absolute;
+  left: 420px;
+  top: 2300px;
+  margin: 10px;
+  background-color: #f0d17b; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 325px;   
+  padding-right: 25px;
+}
+.pan {
+  position: absolute;
+  left: 420px;
+  top: 3000px;
+  margin: 10px;
+  background-color: #979796; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 325px;   
+  padding-right: 25px;
+}
+.pig {
+  position: absolute;
+  left: 420px;
+  top: 1700px;
+  margin: 10px;
+  background-color: #ffffff; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 325px;   
+  padding-right: 25px;
+}
+.cam {
+  position: absolute;
+  left: 420px;
+  top: 1000px;
+  margin: 10px;
+  background-color: #e6ab2d; 
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 325px;   
+  padding-right: 25px;
+}
+body {
+  margin: 0px;  
+  background-image: linear-gradient(#a3fff6, #17b3a3);
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
